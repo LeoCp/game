@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  margin: 0 auto;
+  width: 980px;
+}
+.position{
+  position: absolute;
+  margin: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 400px;
+  height: 300px;
+}
+canvas {
+  border: 1px solid #DEDEDE;
+  background-color: #f1f1f1;
+}
